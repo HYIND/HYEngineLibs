@@ -1,0 +1,4 @@
+!.gitattributes
+/*.lib
+/*.pdb
+/*.idb
